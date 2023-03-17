@@ -1,13 +1,11 @@
-### Olá Mundo! 👋
-
-### Sou apaixonado por tecnologia e aprender coisas novas.
+### Olá Mundo! 👋 
+### Sou o Eliton, Desenvolvedor Front-End 👨‍💻
 <br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elitonrosa/)
-
+#### Sou apaixonado por tecnologia, aprender coisas novas e atualmente estou me aprofundando no mundo Back-End.
 <hr>
 
-### Tech Skills:
+### Minhas Tech Skills:
 <br>
 
 <div>
@@ -30,4 +28,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=elitonrosa&hide_border=true&layout=compact&show_icons=true&theme=github_dark" align="left" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitonrosa&theme=github_dark&hide_border=true&layout=compact" align="rigth" />
+
+<hr>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elitonrosa/)
  
