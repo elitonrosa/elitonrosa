@@ -27,6 +27,7 @@
 <hr>
 <br>
 
-![Eliton GitHub stats](https://github-readme-stats.vercel.app/api?username=elitonrosa&show_icons=true&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api?username=elitonrosa&hide_border=true&layout=compact&show_icons=true&theme=github_dark" align="left" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitonrosa&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitonrosa&theme=github_dark&hide_border=true&layout=compact" align="rigth" />
+ 
