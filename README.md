@@ -1,5 +1,5 @@
 ### Olá Mundo! 👋 
-### Sou o Eliton, Desenvolvedor Front-End 👨‍💻
+### Sou o Eliton, Desenvolvedor Web 👨‍💻
 <br>
 
 #### Sou apaixonado por tecnologia, aprender coisas novas e atualmente estou me aprofundando no mundo Back-End.
