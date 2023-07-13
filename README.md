@@ -22,13 +22,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 <hr>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=elitonrosa&hide_border=true&layout=compact&show_icons=true&theme=github_dark" align="left" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitonrosa&theme=github_dark&hide_border=true&layout=compact" align="rigth" />
-
-<hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elitonrosa/)
  
