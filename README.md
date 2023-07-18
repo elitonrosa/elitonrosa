@@ -14,7 +14,6 @@ Apaixonado por tecnologia e transformar ideias em soluções.
 <br>
 
 # Tecnologias
-
 ##### Linguagens
 <img style='height: 45px' src="https://skillicons.dev/icons?i=typescript,javascript,py,html,css&theme=dark" />
 
@@ -31,5 +30,6 @@ Apaixonado por tecnologia e transformar ideias em soluções.
 <img style='height: 45px' src="https://skillicons.dev/icons?i=docker,linux,bash,postman,figma&theme=dark" />
 <br>
 <br>
+<hr>
 <img align='center' style='max-width: 500px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitonrosa&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" style="width: 100%" />
 </div>
