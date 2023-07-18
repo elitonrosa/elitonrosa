@@ -7,10 +7,17 @@
 Apaixonado por tecnologia e transformar ideias em soluções.
 
 <br>
-
-<img style='height: 45px' src="https://skillicons.dev/icons?i=typescript,javascript,py,html,css,react,tailwind,next,nest,postgres,mongo&theme=dark" />
-
+<div>
+  <img style='height: 45px' src="https://skillicons.dev/icons?i=typescript,javascript,py,html,css&theme=dark" />
+</div>
 <br>
+<div>
+<img style='height: 45px' src="https://skillicons.dev/icons?i=react,tailwind,next,nest,postgres,mongo&theme=dark" />
+</div>
+<br>
+<div>
+<img style='height: 45px' src="https://skillicons.dev/icons?i=docker,linux,bash,git&theme=dark" />
+</div>
 <br>
 <br>
 
