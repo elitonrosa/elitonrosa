@@ -12,7 +12,7 @@ Apaixonado por tecnologia e transformar ideias em soluções.
 </div>
 <br>
 <div>
-<img style='height: 45px' src="https://skillicons.dev/icons?i=react,tailwind,next,nest,postgres,mongo&theme=dark" />
+<img style='height: 45px' src="https://skillicons.dev/icons?i=react,tailwind,next,nest,postgres,mysql,mongo&theme=dark" />
 </div>
 <br>
 <div>
