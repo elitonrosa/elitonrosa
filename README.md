@@ -8,7 +8,7 @@ Apaixonado por tecnologia e transformar ideias em soluções.
 
 <br>
 <div>
-  <img style='height: 45px' src="https://skillicons.dev/icons?i=java,typescript,javascript,py,html,css&theme=dark" />
+  <img style='height: 45px' src="https://skillicons.dev/icons?i=java,typescript,javascript,py&theme=dark" />
 </div>
 <br>
 <div>
