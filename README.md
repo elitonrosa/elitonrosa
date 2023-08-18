@@ -8,11 +8,11 @@ Apaixonado por tecnologia e transformar ideias em soluções.
 
 <br>
 <div>
-  <img style='height: 45px' src="https://skillicons.dev/icons?i=typescript,javascript,py&theme=dark" />
+  <img style='height: 45px' src="https://skillicons.dev/icons?i=cs,typescript,javascript,py&theme=dark" />
 </div>
 <br>
 <div>
-<img style='height: 45px' src="https://skillicons.dev/icons?i=nest,postgres,mysql,mongo,react,tailwind,next&theme=dark" />
+<img style='height: 45px' src="https://skillicons.dev/icons?i=net,nest,postgres,mysql,mongo,react,tailwind,next&theme=dark" />
 </div>
 <br>
 <div>
