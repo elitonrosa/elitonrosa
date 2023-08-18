@@ -7,14 +7,22 @@
 Apaixonado por tecnologia e transformar ideias em soluções.
 
 <br>
+<p>Linguagens</p>
 <div>
   <img style='height: 45px' src="https://skillicons.dev/icons?i=cs,typescript,javascript,py&theme=dark" />
 </div>
 <br>
+<p>Back-End</p>
 <div>
-<img style='height: 45px' src="https://skillicons.dev/icons?i=net,nest,postgres,mysql,mongo,react,tailwind,next&theme=dark" />
+<img style='height: 45px' src="https://skillicons.dev/icons?i=net,nest,postgres,mysql,mongo&theme=dark" />
 </div>
 <br>
+<p>Front-End</p>
+<div>
+<img style='height: 45px' src="https://skillicons.dev/icons?i=react,next,tailwind,styledcomponents&theme=dark" />
+</div>
+<br>
+<p>Ferramentas / Devops</p>
 <div>
 <img style='height: 45px' src="https://skillicons.dev/icons?i=docker,linux,bash,git&theme=dark" />
 </div>
