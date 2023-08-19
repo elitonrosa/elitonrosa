@@ -28,13 +28,6 @@ Apaixonado por tecnologia e transformar ideias em soluções.
 </div>
 <br>
 <br>
-
-<img align='center' style='max-width: 500px' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elitonrosa&theme=dark&show_icons=true&line_height=40&hide=sass&bg_color=0d1117" />
 <br>
-<br>
-<br>
-
-
 <img align='center' style='max-width: 500px' src="https://github-readme-stats-sigma-five.vercel.app/api?username=elitonrosa&theme=dark&count_private=true&bg_color=0d1117"/>
-
 </div>
