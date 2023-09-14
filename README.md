@@ -9,12 +9,12 @@ Apaixonado por tecnologia e transformar ideias em soluções.
 <br>
 <p>Linguagens</p>
 <div>
-  <img style='height: 45px' src="https://skillicons.dev/icons?i=cs,typescript,javascript,py&theme=dark" />
+  <img style='height: 45px' src="https://skillicons.dev/icons?i=typescript,javascript,py&theme=dark" />
 </div>
 <br>
 <p>Back-End</p>
 <div>
-<img style='height: 45px' src="https://skillicons.dev/icons?i=net,nest,postgres,mysql,mongo&theme=dark" />
+<img style='height: 45px' src="https://skillicons.dev/icons?i=nest,postgres,mysql,mongo&theme=dark" />
 </div>
 <br>
 <p>Front-End</p>
