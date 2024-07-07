@@ -4,8 +4,6 @@
 
 ### Sou o Eliton, Desenvolvedor Full Stack 👨‍💻
 
-Apaixonado por tecnologia e transformar ideias em soluções.
-
 <br>
 <p>Linguagens</p>
 <div>
