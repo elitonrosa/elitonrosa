@@ -12,17 +12,17 @@
 <br>
 <p>Back-End</p>
 <div>
-<img style='height: 45px' src="https://skillicons.dev/icons?i=nest,postgres,mysql,mongo&theme=dark" />
+<img style='height: 45px' src="https://skillicons.dev/icons?i=nest,postgres,mysql,mongo,redis&theme=dark" />
 </div>
 <br>
 <p>Front-End</p>
 <div>
-<img style='height: 45px' src="https://skillicons.dev/icons?i=react,next,tailwind,styledcomponents&theme=dark" />
+<img style='height: 45px' src="https://skillicons.dev/icons?i=angular,react,next,tailwind,sass&theme=dark" />
 </div>
 <br>
 <p>Ferramentas / Devops</p>
 <div>
-<img style='height: 45px' src="https://skillicons.dev/icons?i=docker,linux,bash,git&theme=dark" />
+<img style='height: 45px' src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" />
 </div>
 <br>
 <br>
