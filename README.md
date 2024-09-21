@@ -17,7 +17,7 @@
 <br>
 <p>Front-End</p>
 <div>
-<img style='height: 45px' src="https://skillicons.dev/icons?i=angular,react,next,tailwind,sass&theme=dark" />
+<img style='height: 45px' src="https://skillicons.dev/icons?i=react,next,tailwind,sass&theme=dark" />
 </div>
 <br>
 <p>Ferramentas / Devops</p>
